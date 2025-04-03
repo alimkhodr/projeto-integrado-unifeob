@@ -9,6 +9,19 @@
 ## Descrição
 Este projeto é uma aplicação de portaria desenvolvida em C# utilizando o .NET Framework. A aplicação permite gerenciar clientes, comandas e relatórios. Evitando assim a ultilização de papeis no dia a dia do estabelecimento.
 
+## Estudantes
+
+<table>
+    <tr>
+        <th>RA</th>
+        <th>Nome</th>
+    </tr>
+    <tr>
+        <td>1012023100605</td>
+        <td>Ali Mohamed Khodr</td>
+    </tr>
+</table>
+
 ## Requisitos
 - .NET 8.0 ou superior
 - Banco de dados SQLite
